@@ -6,6 +6,13 @@
 
 # [독약한방 프로젝트](https://github.com/realblack0/One-Punch)
 
+## [2019 빅데이터 청년인재](http://bigjob.dbguide.net/) 
+- 데이터산업진흥원 주관
+- 고려대학교 과정
+
+※ 본 프로젝트는 2019년 빅데이터 청년인재 프로그램 참가팀의 프로젝트입니다.
+
+
 ## 프로젝트 개요
 
 일반 한약재와 유사하게 생긴 독성 한약재는 육안으로 구별하기 어렵습니다.  
@@ -87,10 +94,3 @@ MobileNet-v1, ResNet50, VGG16, VGG19, LeafNet, DenseNet201 등의 pre-trained mo
 > - OpenCV
 > - Dash
 > - python
-
-
-### [2019 빅데이터 청년인재](http://bigjob.dbguide.net/) 
-- 데이터산업진흥원 주관
-- 고려대학교 과정
-
-본 프로젝트는 2019년 빅데이터 청년인재 프로그램 참가팀의 프로젝트입니다.
